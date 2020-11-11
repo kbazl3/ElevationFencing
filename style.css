@@ -62,9 +62,15 @@ html, body {
   margin-bottom: 1rem;
 }
 
+.fa-link, .fa-wrench, .fa-lock {
+  font-size: 4em;
+  margin: 1rem;
+}
 
 
-
+.icon {
+  margin: 1rem;
+}
 
 
 /*---Media Queries --*/
@@ -103,7 +109,7 @@ figure {
   height: 100%;
 }
 #fixed {
-  background-image: url('img/mac.png');
+  background-image: url('https://utahfencing.co/wp-content/uploads/2020/07/White-Fence-750x500.jpg');
   position: fixed;
   display: block;
   top: 0;
